@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-know-your-tools" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Know Your Tools</title>
+
+  <introduction>
+    <p> TBD </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-hand-tools.ptx" />
+  <xi:include href="sec-power-tools.ptx" />
+  <xi:include href="sec-other-tools.ptx" />
+
+</chapter>

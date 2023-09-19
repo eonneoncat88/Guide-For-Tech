@@ -6,28 +6,54 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <titlepage>
     <author>
-      <personname>You</personname>
-      <department>Your department</department>
-      <institution>Your institution</institution>
+      <personname>Noah Leahy</personname>
+      <department>Used To Be Theatre Tech</department>
+      <institution>Mostly in DPS and DCPA</institution>
     </author>
     <date>
       <today />
     </date>
   </titlepage>
 
+  <dedication>
+    <p> 
+      To all techs and their sacrifice to be part of their shows
+    </p>
+
+    <p> 
+      Special Thanks To:
+      <ul marker="disc">
+        <li><p>Don Fuller</p></li>
+        <li><p>Sam Chappell</p></li>
+        <li><p>Aj Domagala</p></li>
+        <li><p>Kyle</p></li>
+        <li><p>Atlas Zaina</p></li>
+        <li><p>Eli Leahy</p></li>
+        <li><p>Damien</p></li>
+        <li><p>Owen</p></li>
+        <li><p>Henry</p></li>
+      </ul>
+    </p>
+  </dedication>
+
   <colophon>
 
     <website>
-      <name>Your Website</name>
-      <address>"https://pretextbook.org"</address>
+      <url href="https://pretextbook.org/">PreTeXt</url>
     </website>
 
     <copyright>
-      <year>2020<ndash />2023</year>
-      <holder>You</holder>
+      <year>2023</year>
+      <holder>Noah Leahy</holder>
       <shortlicense> This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <url href="http://creativecommons.org/licenses/by-sa/4.0/" visual="creativecommons.org/licenses/by-sa/4.0"> CreativeCommons.org</url>
       </shortlicense>
     </copyright>
   </colophon>
+
+  <preface>
+    <title>Book's Goals</title>
+
+    <xi:include href="./preface.ptx" />
+  </preface>
 </frontmatter>
 

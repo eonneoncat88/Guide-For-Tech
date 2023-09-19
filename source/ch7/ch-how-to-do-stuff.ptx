@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-how-to-do-stuff" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>How To Do Stuff</title>
+
+  <introduction>
+    <p> TBD </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-toenailing.ptx" />
+  <xi:include href="sec-making-flats.ptx" />
+  <xi:include href="sec-making-frames.ptx" />
+  <xi:include href="sec-attaching-fixed-casters.ptx" />
+  <xi:include href="sec-attaching-swival-casters.ptx" />
+  <xi:include href="sec-making-stage-wagons.ptx" />
+
+</chapter>

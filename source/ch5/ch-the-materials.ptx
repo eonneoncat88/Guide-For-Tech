@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-the-materials" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Materials</title>
+
+  <introduction>
+    <p> TBD </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-fasteners.ptx" />
+  <xi:include href="sec-glues-and-adhesives.ptx" />
+  <xi:include href="sec-wood.ptx" />
+  <xi:include href="sec-foam.ptx" />
+  <xi:include href="sec-paints.ptx" />
+  <xi:include href="sec-other-materials.ptx" />
+
+</chapter>

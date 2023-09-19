@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-starting-a-show" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Starting A Show</title>
+
+  <introduction>
+    <p> TBD </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-new-show-guide.ptx" />
+
+</chapter>

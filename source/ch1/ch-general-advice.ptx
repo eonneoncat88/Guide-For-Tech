@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-general-advice" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>General Advice</title>
+
+  <introduction>
+    <p> TBD </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-safety-is-key.ptx" />
+  <xi:include href="sec-why-not-always-use-spray-paint.ptx" />
+
+</chapter>

@@ -5,15 +5,21 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>How To Go On A Tech Adventure</title>
+    <subtitle>With help from the 2015 - 2020 tech teams</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
-
+    <xi:include href="./ch1/ch-general-advice.ptx" />
+    <xi:include href="./ch2/ch-starting-a-show.ptx" />
+    <xi:include href="./ch3/ch-always-cleaning.ptx" />
+    <xi:include href="./ch4/ch-your-assignments.ptx" />
+    <xi:include href="./ch5/ch-the-materials.ptx" />
+    <xi:include href="./ch6/ch-know-your-tools.ptx" />
+    <xi:include href="./ch7/ch-how-to-do-stuff.ptx" />
+    <xi:include href="./ch8/ch-miscellaneous-stuff.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
