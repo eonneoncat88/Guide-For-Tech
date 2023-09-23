@@ -5,4 +5,53 @@
 
   <p> TBD </p>
 
+  <figure xml:id="fig-on-stage-org-struct">
+    <caption>An on stage organizational structure</caption>
+    <image xml:id="tikz-on-stage-org-struct" width="90%">
+      <description>An on stage organizational structure</description>
+      <latex-image>
+        \begin{tikzpicture}
+        \begin{circuitikz}
+        \draw [fill={rgb,255:red,204; green,204; blue,204}] (1,13.5) rectangle (3,13) node[pos=.5] {Director};
+        \draw [fill={rgb,255:red,234; green,153; blue,153}] (-2.75,7.5) rectangle (0.25,7) node[pos=.5] {Stage Left Manager};
+        \draw [fill={rgb,255:red,207; green,226; blue,243}] (6.5,9) rectangle (8.5,8.5) node[pos=.5] {Actors};
+        \draw [fill={rgb,255:red,224; green,102; blue,102}] (-2.75,6) rectangle (0.25,5.5) node[pos=.5] {Stage Left Crew};
+        \draw [fill={rgb,255:red,164; green,194; blue,244}] (3.75,10.5) rectangle (5.75,10) node[pos=.5] {Makeup};
+        \draw [fill={rgb,255:red,180; green,167; blue,214}] (3.5,7.5) rectangle (7.25,7) node[pos=.5] {Stage Right Manager};
+        \draw [ -Stealth] (0,9.5) -- (0,9);
+        \draw [ -Stealth] (7.5,12.25) -- (7.5,9);
+        \draw [ -Stealth] (-1.25,7) -- (-1.25,6);
+        \draw [fill={rgb,255:red,255; green,229; blue,153}] (2.5,9) rectangle (5.75,8.5) node[pos=.5] {Light and Sound};
+        \draw [fill={rgb,255:red,182; green,215; blue,168}] (-1.5,9) rectangle (1.5,8.5) node[pos=.5] {Stage Manager};
+        \draw [fill={rgb,255:red,236; green,179; blue,81}] (3.25,12.5) rectangle (6.25,12) node[pos=.5] {Props Master};
+        \draw [fill={rgb,255:red,142; green,124; blue,195}] (3.75,6) rectangle (7,5.5) node[pos=.5] {Stage Right Crew};
+        \draw [fill={rgb,255:red,233; green,129; blue,195}] (3,11.5) rectangle (6.5,11) node[pos=.5] {Wardrobe Supervisor};
+        \draw [ -Stealth] (5.25,7) -- (5.25,6);
+        \draw [ -Stealth] (2,12.25) -- (3.25,12.25);
+        \draw [ -Stealth] (2.5,6.5) -- (2.5,6);
+        \draw [ -Stealth] (1.25,6.5) -- (1.25,6);
+        \draw [ -Stealth] (2,11.25) -- (3,11.25);
+        \draw [ -Stealth] (2,10.25) -- (3.75,10.25);
+        \draw [ -Stealth] (5.25,8) -- (5.25,7.5);
+        \draw [ -Stealth] (-1.25,8) -- (-1.25,7.5);
+        \draw [ -Stealth] (4,9.5) -- (4,9);
+        \draw [Stealth-Stealth] (2.5,8.75) -- (1.5,8.75);
+        \draw [ -Stealth] (5.75,8.75) -- (6.5,8.75);
+        \draw [short] (2.5,6.5) .. controls (4,6.5) and (4,6.5) .. (5.25,6.5);
+        \draw [short] (1.25,6.5) .. controls (0,6.5) and (0,6.5) .. (-1.25,6.5);
+        \draw [short] (2,13) .. controls (2,11.25) and (2,11.25) .. (2,9.5);
+        \draw [short] (5.75,10.25) .. controls (6.75,10.25) and (6.75,10.25) .. (7.5,10.25);
+        \draw [short] (0,9.5) .. controls (2,9.5) and (2,9.5) .. (4,9.5);
+        \draw [short] (-1.25,8) .. controls (2,8) and (2,8) .. (5.25,8);
+        \draw [short] (4,8.5) .. controls (4,8.25) and (4,8.25) .. (4,8);
+        \draw [short] (6.25,12.25) .. controls (7,12.25) and (7,12.25) .. (7.5,12.25);
+        \draw [short] (6.5,11.25) .. controls (7,11.25) and (7,11.25) .. (7.5,11.25);
+        \draw [fill={rgb,255:red,252; green,166; blue,196}] (0.75,6) rectangle (3.25,5.5) node[pos=.5] {Stage Hands};
+        \draw [short] (0,8.5) .. controls (0,8.25) and (0,8.25) .. (0,8);
+        \end{circuitikz}
+        \end{tikzpicture}
+      </latex-image>
+    </image>
+  </figure>
+
 </section>
