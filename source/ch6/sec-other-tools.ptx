@@ -3,6 +3,12 @@
 <section xml:id="sec-other-tools" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Other Tools</title>
 
-  <p> TBD </p>
+  <introduction>  
+    TBD
+  </introduction>
+
+  <!-- include subsections -->
+  <xi:include href="./subsec-other-tools/subsec-3d-printers.ptx" />
+  <xi:include href="./subsec-other-tools/subsec-cnc-machining.ptx" />
 
 </section>

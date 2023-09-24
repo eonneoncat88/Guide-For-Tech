@@ -3,6 +3,18 @@
 <section xml:id="sec-power-tools" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Power Tools</title>
 
-  <p> TBD </p>
+  <introduction>  
+    TBD
+  </introduction>
+
+  <!-- include subsections -->
+  <xi:include href="./subsec-power-tools/subsec-powered-fastening-tools.ptx"/>
+  <xi:include href="./subsec-power-tools/subsec-sanding-tools.ptx"/>
+  <xi:include href="./subsec-power-tools/subsec-drills.ptx"/>
+  <xi:include href="./subsec-power-tools/subsec-handheld-saws.ptx"/>
+  <xi:include href="./subsec-power-tools/subsec-pneumatic-tools.ptx"/>
+  <xi:include href="./subsec-power-tools/subsec-stationary-saws.ptx"/>
+  <xi:include href="./subsec-power-tools/subsec-lathe.ptx"/>
+  <xi:include href="./subsec-power-tools/subsec-welding-tools.ptx"/>
 
 </section>

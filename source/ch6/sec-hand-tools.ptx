@@ -3,6 +3,25 @@
 <section xml:id="sec-hand-tools" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Hand Tools</title>
 
-  <p> TBD </p>
+  <introduction>  
+    TBD
+  </introduction>
+
+  <!-- include subsections -->
+  <xi:include href="./subsec-hand-tools/subsec-measuring-tools.ptx" />
+  <xi:include href="./subsec-hand-tools/subsec-marking-tools.ptx" />
+  <xi:include href="./subsec-hand-tools/subsec-fastening-tools.ptx" />
+  <xi:include href="./subsec-hand-tools/subsec-hammers.ptx" />
+  <xi:include href="./subsec-hand-tools/subsec-prying-tools.ptx" />
+  <xi:include href="./subsec-hand-tools/subsec-wrenches.ptx" />
+  <xi:include href="./subsec-hand-tools/subsec-screw-drivers.ptx" />
+  <xi:include href="./subsec-hand-tools/subsec-gripping-tools.ptx" />
+  <xi:include href="./subsec-hand-tools/subsec-saws.ptx" />
+  <xi:include href="./subsec-hand-tools/subsec-cutting-tools.ptx" />
+  <xi:include href="./subsec-hand-tools/subsec-rasping-and-planing-tools.ptx" />
+  <xi:include href="./subsec-hand-tools/subsec-hand-drills.ptx" />
+  <xi:include href="./subsec-hand-tools/subsec-tap-and-die.ptx" />
+  <xi:include href="./subsec-hand-tools/subsec-files.ptx" />
+  <xi:include href="./subsec-hand-tools/subsec-clamps-and-vices.ptx" />
 
 </section>

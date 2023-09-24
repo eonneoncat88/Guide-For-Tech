@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-paint-tools" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Paint Tools</title>
+
+  <introduction>  
+    TBD
+  </introduction>
+
+  <!-- include subsections -->
+  <xi:include href="./subsec-painting-tools/subsec-paint-brushes.ptx" />
+  <xi:include href="./subsec-painting-tools/subsec-painting-tools.ptx" />
+  <xi:include href="./subsec-painting-tools/subsec-spray-paint-tools.ptx" />
+  <xi:include href="./subsec-painting-tools/subsec-wood-graining-tools.ptx" />
+  <xi:include href="./subsec-painting-tools/subsec-misc-painting-tools.ptx" />
+
+</section>
