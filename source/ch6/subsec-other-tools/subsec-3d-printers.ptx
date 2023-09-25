@@ -3,6 +3,25 @@
 <subsection xml:id="subsec-3d-printers" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>3d Printers</title>
 
-  <p> TBD </p>
+  <introduction>
+    <p>
+      TBD
+    </p>
+  </introduction>
+
+  <subsubsection> <!--xml:id="subsubsec-"-->
+    <title> TBD </title>
+
+    <figure> <!--xml:id="fig-"-->
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
 
 </subsection>

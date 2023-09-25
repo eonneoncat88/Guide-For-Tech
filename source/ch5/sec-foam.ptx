@@ -3,6 +3,25 @@
 <section xml:id="sec-foam" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Foam</title>
 
-  <p> TBD </p>
+  <introduction>
+    <p>
+      TBD
+    </p>
+  </introduction>
+
+  <subsection> <!--xml:id="subsubsec-"-->
+    <title> TBD </title>
+
+    <figure> <!--xml:id="fig-"-->
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsection>
 
 </section>

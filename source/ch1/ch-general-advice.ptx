@@ -9,6 +9,5 @@
 
   <!-- include sections -->
   <xi:include href="sec-safety-is-key.ptx" />
-  <xi:include href="sec-why-not-always-use-spray-paint.ptx" />
 
 </chapter>

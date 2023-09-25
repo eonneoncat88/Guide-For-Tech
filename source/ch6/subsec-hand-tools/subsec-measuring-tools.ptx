@@ -3,6 +3,24 @@
 <subsection xml:id="subsec-measuring-tools" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Measuring Tools</title>
 
-  <p> TBD </p>
+  <introduction>
+    <p>
+      TBD
+    </p>
+  </introduction>
 
+  <subsubsection> <!--xml:id="subsubsec-"-->
+    <title> TBD </title>
+
+    <figure> <!--xml:id="fig-"-->
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
 </subsection>
