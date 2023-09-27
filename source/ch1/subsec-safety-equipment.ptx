@@ -5,23 +5,222 @@
 
   <introduction>
     <p>
-      TBD
+      There are many kinds of safety equipment that are out there, but some are far more likely
+      to need to be used for theatre shop and show production than others. The following are 
+      sections are on several types of safty equpiment that will likely need to be used. However
+      this list is not all encompicening, and you should recive both proper safety traing and 
+      proper saftey equipment training before using any tool, machine, or piece of equipment 
+      in the shop or theatre.
     </p>
   </introduction>
 
-  <subsubsection> <!--xml:id="subsubsec-"-->
-    <title> TBD </title>
+  <subsubsection xml:id="subsubsec-nitrile-gloves">
+    <title> Nitrile Gloves </title>
 
     <figure> <!--xml:id="fig-"-->
-      <caption> TBD</caption>
+      <caption> TBD </caption>
       <image source="temp-image.jpg" width="30%">
         <description> TBD </description>
       </image>
     </figure>
 
     <p>
-      TBD
+      Nitrile gloves are used when handeling materials such as adhesives, paints, or machine oils 
+      that you should avoid skin contact with, but need to be dispossible. Gerenally speaking, they
+      are for good handeling for solvents, oils, greases, and some acids and bases. Additionally, 
+      it is generally easy to see when tears and breaks will ocurr unless the gloves are compremissed 
+      by materials such as acetone. Additioanlly, nitrile is useful because it prevents possible 
+      latex allergies and prevides an alernative for people with latex alergies. There should always
+      be a supply of them avilble to use if needed, and a box of them should also kept in the first 
+      aid go bag for people trained in first aid to use. 
     </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-other-gloves">
+    <title> Other Gloves </title>
+
+    <figure> <!--xml:id="fig-"-->
+      <caption> TBD </caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      There are a very large number of types of gloves that you should be aware of aside from 
+      nitrile. These other types of gloves depend on use case, but this section will give a brief
+      summary what we'll descride as work gloves. The 6 categories we'll briefly look at are cotton 
+      or linen gloves, leather gloves, rigger's gloves, heat-resistant gloves, electrical insulated 
+      gloves, and cut-resistant gloves. 
+    </p>
+    <p>
+      Cotton or linen gloves are lightweight gloves provide basic hand protection and are can be 
+      used for general-purpose tasks like handling props or costumes if you don't want to get 
+      fingerprints or oils on them. They are breathable and allow for good dexterity, but won't 
+      allow for much protection. 
+    </p>
+    <p>
+      Leather gloves offer durability and protection against abrasions, cuts, and punctures. A good 
+      pair are sturdy, provide good grip, and last a long time. They should be used for heavy lifting, 
+      rigging tasks involving ropes and cables, handling rough materials such as OSB or raw wood. 
+      Overall they are a solid pair of gloves most people in a shop should have, but tend to limit 
+      dexterity and don't provide impact resitance. 
+    </p>
+    <p>
+      Rigger's gloves are specifically designed for rigging work, and offer protection against 
+      abrasions, cuts, and impact. They have reinforced palms and fingers for added protection, and 
+      generally have wrist support and are often flame-resistant. They are good climbing rigging 
+      structures, handling cables or ropes, and using setting up rigging equipment for lights. However, 
+      they serverly limit dexterity.
+    </p>
+    <p>
+      Heat-resistant gloves are only or tasks involving hot materials or equipment. They are essential 
+      to protect against burns and made from specialized materials that can withstand high temperatures.
+      They are good for handling hot stage lights, pyrotechnics, welding, and other high-temperature 
+      tasks. However, they limit dextarity and are not abrasion resistant or designed to have impact 
+      resistantance. 
+    </p>
+    <p>
+      Electrical insulated gloves are designed to protect against electrical shocks. They are essential 
+      for working with electrical equipment. They work by having a high electrical resistance to prevent 
+      shocks. They should be used when handling electrical cables, connecting lighting fixtures, or when 
+      working on electrical circuits.
+    </p>
+    <p>
+      Cut-resistant gloves protection against sharp objects, such as chisels or box cutters. They improve
+      safety for tasks involving sharp materials or tools, such as when cutting and handling sharp 
+      materials or working with cables and wires. However, they tend to be not be breathable and 
+      come in limited sizing.
+    </p>
+    <p>
+      Each of these types of gloves is usful in its own way. However there isn't a one size fits all 
+      solution for what each of these types of gloves helps with. If you are havving to buy your own pair 
+      personnaly, without having a list of recomendations from the theatre orginization you are working 
+      at, I would recommend against just buying a pair of generic "standard work gloves". Instead 
+      consider a good pair of gloves because they will last, or at least first looking into the brand
+      you consider buying. I've seen people buy bad work gloves kind that have ripoed quickly and 
+      litterally fallen apart from a single thread getting caught on a raw 2x4.
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-respirators">
+    <title> Respirators </title>
+
+    <figure> <!--xml:id="fig-"-->
+      <caption> Respetory Protection Types </caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> Respetory Protection Types </description>
+      </image>
+    </figure>
+
+    <p>
+      There are two main kinds of reperators, one of which you will have to use. They are filtering 
+      facepiece respirators (FFR) and elastomeric half mask respirators (EHMR). Both can accomplish
+      the same task depending on the filtering rating and having an approriate fit. The primary 
+      advantage of using FFRs is that they have a low intial cost, but are single use. The primary
+      advantage of using EHMRs is that that they are reusable, provided cleaning and disinfecting 
+      between use. The total cost per filter is also generally lower. However, EHMRs have a higher 
+      up-front cost. Whether using a FFR or EHMR they should always be worn when painting in low
+      ventialated spaces, working in dust filled enviorments, cutting materials, or working with foam.
+    </p>
+    <p>
+      <website>
+        For more information on reperators go to The National Personal Protective Technology Laboratory 
+        (NPPTL) site for 
+        <url href="https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/respsourceTypes.html">
+          The Respiratory Protection Information Trusted Source
+        </url>.
+        The material is available on the agency website for no charge.
+      </website>
+    </p>
+  </subsubsection>
+  
+  <subsubsection xml:id="subsubsec-safty-glasses">
+    <title> Safety Glasses </title>
+
+    <figure> <!--xml:id="fig-"-->
+      <caption> TBD </caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      There are two types of safty glasses, those that fit over regular glasses and those that don't.
+      Safety glasses should be worn at all times! As soon as you can put your pair on, do so. It
+      doesn't mater if you are using a machine or "just in the shop", they must be worn. A chip from 
+      a machine someone else is working on could fly into your eye. Even if you are mostly staying on
+      stage, keep them on. You never full know what might happen. There should always be a few 
+      sanitized extra pairs avaible at all times for potential visors. 
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-hearing-protection">
+    <title> Hearing Protection </title>
+
+    <figure> <!--xml:id="fig-"-->
+      <caption> TBD </caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      There are ear plugs and earmuff. If you are using loud equipment or in a loud zone, hearing 
+      protection must be worn. In part because of this ear protection you must be intentional
+      in your actions as to not accidently frigten someone using a machine or tool. There should
+      always be extra hearing protection avaible. If you like ear plugs, I might recommend 
+      investing in a pair of reussable ones, instead of using standard disposibles. 
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-steel-toe-shoes">
+    <title> Steel Toe Shoes </title>
+
+    <figure> <!--xml:id="fig-"-->
+      <caption> TBD </caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      You should have a pair of steel toe shoes that you put on any time before enering the shop.
+      They help proect your feet against heavy objects, falling objects, and doors. They also 
+      exsist to be your shoes that get abbused by sparks and the occational acidential paint. I
+      personally recomend a pair of black leather steel boots, because if you have to get rid of
+      paint or they get scratched, just use some more black leather conditioner and they look 
+      just fine.
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-fire-extinguishers">
+    <title> Fire Extinguishers </title>
+
+    <figure> <!--xml:id="fig-"-->
+      <caption> TBD </caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      You should hopefully never have to use a fire extinguisher, but things can and do go wrong. It is
+      important to know what kind of fire extinguisher you need at a moments notice. A class A:B:C fire
+      extinguisher should be aviilavalible that should be able to handle the expected fires encountered
+      in a shop. Always aim at the bottom of the flame, not the tops of the flame.
+    </p>
+    <!-- Until there is a response about the updated linking policy from the NFPA, this can not be included
+    <p>
+      <website>
+        For more information on fire extinguishers go to The National Fire Protection Association 
+        (NFPA) site for 
+        <url href="https://www.nfpa.org/News-and-Research/Publications-and-media/Blogs-Landing-Page/NFPA-Today/Blog-Posts/2021/07/16/Fire-Extinguisher-Types">
+          Fire Extinguisher Types
+        </url>
+      </website>
+    </p>
+    -->
   </subsubsection>
 
 </subsection>

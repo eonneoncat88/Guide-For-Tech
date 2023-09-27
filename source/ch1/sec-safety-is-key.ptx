@@ -4,8 +4,126 @@
   <title>Safety Is Key</title>
 
   <introduction>  
-    TBD
+    Something that we like to say in tech is that safety is key. This is for a variety of 
+    reasons including the fact that being in tech exsposes you to higher risk factors from
+    the tools to paint fumes to rigging you have to use. Although following all safety 
+    procautions may seem irritating, it is esscential that everyone follows these guidelines
+    in order to avoid possible short term and long term dentrimates to your health. 
   </introduction>
+
+  <subsection xml:id="subsec-best-practices">
+    <title>Best Practices</title>
+    <introduction>
+      <p>
+        The most important of the safety procedures boil down to a few very simple ideas that 
+        come from trying to not do stupid things. These are how the basic principles of wearing
+        hard toed shoes, wearing safety goggles, not wearing jewelry, and pulling back long hair
+        come from. Then for cirtain tasks, further procaution is needed. For example if working
+        you are working with something that makes any kind of dust or aerosol you need to wear a 
+        KN95 mask. Or if you are soldering electronics, you should be in a well ventilated place 
+        with an ESD (electro static dicharge) strap. If you think rationally, these ideas make 
+        sense.
+      </p>
+      <p>
+        However, not all safty practices are as self evadent, or even if they are, people somehow
+        don't seem to remeber how to follow them until something goes wrong. It is important to 
+        be conginizant of this fact in order to help reduce chances of accidents. Broadly speaking
+        there are 7 categories of hazards that create these less evident safety practices. They 
+        are falling hazards, slipping/tripping hazards, breathing hazards, electrical hazards, tool 
+        hazards, storage hazards, and sound hazards. Each one of these hazards if can't be prevented 
+        can at least be mitigated ether with best practices, or the right safety equipement.
+      </p>
+    </introduction>
+
+    <subsubsection xml:id="subsec-falling-hazards">
+      <title>Falling Hazards</title>
+      <p>
+        A falling hazard can come from a variety of sources. These include, but are not limited to
+        improper rigging, unsecured dementinal or structoral materials in storage, or improperly
+        framed stage pieces. Most falling hazards can be prevented with proper precaution. For 
+        example, making sure to succure and balence any items in storage. Any time that rigging is 
+        done, have a secondary oppion before it the rigging is actual done. While in the design
+        phase of stage pieces, make sure that the factor of saftey is high enought that unecpected
+        failure is unlikely. Simply being smart and intential about storage and design can generally
+        midigate falling hazard risks
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsec-tripping-slipping-hazards">
+      <title>Tripping/Slipping Hazards</title>
+      <p>
+        Tripping and slipping hazards mostly come from when people don't put away and clean up 
+        there stuff, or not being intential about cable placement. If the advice from 
+        <xref ref="ch-always-cleaning">Always Cleaning: Ch </xref>
+        is followed, most tripping and slipping hazards will be mitigated. Additionally, if and when 
+        cabels and rigging are laid out, making sure people are aware that they are on a designated 
+        floor area with ground cables will help prevent tripping. With extention cords, making 
+        them be under cable gaurds or better yet not used, prevents almost all other tipes of 
+        tripping hazards.
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsec-breathing-hazards">
+      <title>Breathing Hazards</title>
+      <p>
+        Breathing hazards come from many sources, such as saw dust, paint fumes, aerosol sprays,
+        smoke, and more. All breathing hazards can be mitigated with some kind of resperator. However, 
+        the most common reperators needed for work in the shop are disscussed in section
+        <xref ref="subsubsec-respirators" text="custom">1.1.2.3 Respirators</xref>
+        and will using a KN95 filter be good enough. However having a supply of higher rated filters
+        on hand such as KN99 and KN100 filters is good for certain process. For example, cutting carbon
+        fiber. Any time you are cutting a matterial that produces any dust or particular, you must wear 
+        a mask. If there is fumes, you must wear a mask. If you do all that, you should mitagte any 
+        expected breathing hazards.
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsec-electrical-hazards">
+      <title>Electrical Hazards</title>
+      <p>
+        Any major electrical hazards about your facility should be described by your head tech. Generally
+        speaking, avoid touching high voltage, avoid mixing liquid and electic stuff, and avoid using 
+        extention cables when possible.
+
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsec-tool-hazards">
+      <title>Tool Hazards</title>
+      <p>
+        The number of different hazards from different kinds of tools are too many to name. They can cause
+        lacerations, ring avulsions, hearing damage, broken bones, pneumoconiosis, and much much more. The
+        best way to midigate tool hazards, are to be properly trained in how to use a tools, and standard risk
+        and risk mitigation techniques for using said tool. This can include using a push sticks, using a
+        reperator, laser eye protection goggles, and other saftey equipment. A given tool should require
+        cirtain safety equipment before operatoin. If proper tool training and procidures are followed,
+        the risk should be mitigated. 
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsec-storage-hazards">
+      <title>Storage Hazards</title>
+      <p>
+        Not all materials are stable. Depending on if a material is or is not stable in storage, special
+        considerations must be followed. For example, spray paint can exploit while in storage and oxygen 
+        and acetylene must be seperated to help prevent spontaneous explotion case of a gase leak. These
+        problems from unstable storage are mitigated by using proper storage following the safe data sheet
+        of a given material.  
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsec-sound-hazards">
+      <title>Sound Hazards</title>
+      <p>
+        Sound hazards are generally from using tools. Prolonged exposuer to loud noices causes hearing damage.
+        To preven this using the hearing protection described in section 
+        <xref ref="subsubsec-hearing-protection" text="custom">1.1.2.5 Hearing Protection</xref>
+        in generally good enough. However, you should you an appropriately rated grade of sound protection
+        depending on the relative noise levels in the room. In other words, whatever will be the loudest is 
+        what you should worry about, not nessisarryily from the tool you are using.
+      </p>
+    </subsubsection>
+  </subsection>
 
   <!-- include subsections -->
   <xi:include href="./subsec-safety-equipment.ptx" />

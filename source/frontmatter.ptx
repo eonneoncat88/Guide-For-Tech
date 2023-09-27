@@ -7,8 +7,8 @@
   <titlepage>
     <author>
       <personname>Noah Leahy</personname>
-      <department>Used To Be Theatre Tech</department>
-      <institution>Mostly in DPS and DCPA</institution>
+      <department>Theatre Tech</department>
+      <institution>TJHS</institution>
     </author>
     <date>
       <today />
@@ -38,14 +38,26 @@
 
   <colophon>
 
-    <website>
-      <url href="https://pretextbook.org/">PreTeXt</url>
-    </website>
+    <edition>
+      2023 Update
+    </edition>
 
     <copyright>
       <year>2023</year>
       <holder>Noah Leahy</holder>
-      <shortlicense> This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <url href="http://creativecommons.org/licenses/by-sa/4.0/" visual="creativecommons.org/licenses/by-sa/4.0"> CreativeCommons.org</url>
+      <shortlicense> 
+        This work is licensed under the Creative Commons Attribution 4.0 International License. 
+        To view a copy of this license, visit 
+        <website>
+          <url 
+            href="http://creativecommons.org/licenses/by/4.0/legalcode" 
+            visual="creativecommons.org">
+            Creative Commons Attribution 4.0 International License Legal Code
+          </url>
+        </website>
+        <image source="CreativeCommonsAttribution40InternationalLicense.svg" width="30%">
+          <description>Creative Commons Attribution 4.0 International License</description>
+        </image>>
       </shortlicense>
     </copyright>
   </colophon>

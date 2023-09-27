@@ -18,6 +18,9 @@
 
   <colophon>
     <p> This book was authored in <pretext />. </p>
+    <website>
+      <url href="https://pretextbook.org/">PreTeXt</url>
+    </website>
   </colophon>
 </backmatter>
 
