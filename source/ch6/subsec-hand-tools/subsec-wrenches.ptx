@@ -9,10 +9,10 @@
     </p>
   </introduction>
 
-  <subsubsection> <!--xml:id="subsubsec-"-->
-    <title> TBD </title>
+  <subsubsection xml:id="subsubsec-adjustable-wrench">
+    <title> Adjustable Wrench </title>
 
-    <figure> <!--xml:id="fig-"-->
+    <figure>
       <caption> TBD</caption>
       <image source="temp-image.jpg" width="30%">
         <description> TBD </description>
@@ -24,4 +24,63 @@
     </p>
   </subsubsection>
 
+  <subsubsection xml:id="subsubsec-ratchet-wrench">
+    <title> Ratchet Wrench </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-open-end-wrench">
+    <title> Open End Wrench </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-closed-end-wrench">
+    <title> Closed End Wrench </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-ratcheting-wrench">
+    <title> Ratcheting Wrench </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
 </subsection>

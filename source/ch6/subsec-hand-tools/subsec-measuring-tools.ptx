@@ -9,10 +9,85 @@
     </p>
   </introduction>
 
-  <subsubsection> <!--xml:id="subsubsec-"-->
-    <title> TBD </title>
+  <subsubsection xml:id="subsubsec-plumb-bob">
+    <title> Plumb Bob </title>
 
-    <figure> <!--xml:id="fig-"-->
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-framing-square">
+    <title> Framing Square </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-tri-square">
+    <title> Tri Square </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-combination-square">
+    <title> Combination Square </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-tape-measure">
+    <title> Tape Measure </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-level">
+    <title> Level </title>
+
+    <figure>
       <caption> TBD</caption>
       <image source="temp-image.jpg" width="30%">
         <description> TBD </description>

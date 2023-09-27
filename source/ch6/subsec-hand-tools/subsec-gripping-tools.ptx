@@ -9,10 +9,10 @@
     </p>
   </introduction>
 
-  <subsubsection> <!--xml:id="subsubsec-"-->
-    <title> TBD </title>
+  <subsubsection xml:id="subsubsec-vise-grips">
+    <title> Vice-Grips </title>
 
-    <figure> <!--xml:id="fig-"-->
+    <figure>
       <caption> TBD</caption>
       <image source="temp-image.jpg" width="30%">
         <description> TBD </description>
@@ -24,4 +24,93 @@
     </p>
   </subsubsection>
 
+  <subsubsection xml:id="subsubsec-needle-nose-pliers">
+    <title> Needle Nose Pliers </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-slip-joint-pliers">
+    <title> Slip Joint Pliers </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-side-cutting-pliers">
+    <title> Side Cutting Pliers </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-channel-locks">
+    <title> Channel Locks </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-wire-strippers">
+    <title> Wire Strippers </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-end-nipper">
+    <title> End Nipper </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
 </subsection>

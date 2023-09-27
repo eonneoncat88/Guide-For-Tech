@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<subsection xml:id="subsec-marking-tools" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Marking Tools</title>
+<subsection xml:id="subsec-drivers" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Drivers</title>
 
   <introduction>
     <p>
@@ -9,8 +9,8 @@
     </p>
   </introduction>
 
-  <subsubsection xml:id="subsubsec-chalk-line">
-    <title> Chalk Line </title>
+  <subsubsection xml:id="subsubsec-nut-driver">
+    <title> Nut Driver </title>
 
     <figure>
       <caption> TBD</caption>
@@ -24,8 +24,8 @@
     </p>
   </subsubsection>
 
-  <subsubsection xml:id="subsubsec-compass">
-    <title> Compass </title>
+  <subsubsection xml:id="subsubsec-hex-driver">
+    <title> Hex Driver </title>
 
     <figure>
       <caption> TBD</caption>
@@ -39,8 +39,8 @@
     </p>
   </subsubsection>
 
-  <subsubsection xml:id="subsubsec-caulk">
-    <title> Caulk </title>
+  <subsubsection xml:id="subsubsec-allen-keys">
+    <title> Allen Keys </title>
 
     <figure>
       <caption> TBD</caption>
@@ -54,8 +54,8 @@
     </p>
   </subsubsection>
 
-  <subsubsection xml:id="subsubsec-markers">
-    <title> Markers </title>
+  <subsubsection xml:id="subsubsec-flat-head">
+    <title> Flat Head </title>
 
     <figure>
       <caption> TBD</caption>
@@ -69,8 +69,23 @@
     </p>
   </subsubsection>
 
-  <subsubsection xml:id="subsubsec-pensils">
-    <title> Pensils </title>
+  <subsubsection xml:id="subsubsec-phillips-head">
+    <title> Phillips Head </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-ratchet-driver">
+    <title> Ratchet Driver </title>
 
     <figure>
       <caption> TBD</caption>

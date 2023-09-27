@@ -9,10 +9,10 @@
     </p>
   </introduction>
 
-  <subsubsection> <!--xml:id="subsubsec-"-->
-    <title> TBD </title>
+  <subsubsection xml:id="subsubsec-claw-hammer">
+    <title> Claw Hammer </title>
 
-    <figure> <!--xml:id="fig-"-->
+    <figure>
       <caption> TBD</caption>
       <image source="temp-image.jpg" width="30%">
         <description> TBD </description>
@@ -24,4 +24,78 @@
     </p>
   </subsubsection>
 
+  <subsubsection xml:id="subsubsec-ripping-hammer">
+    <title> Ripping Hammer </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-ball-peen-hammer">
+    <title> Ball Peen Hammer </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-mallet">
+    <title> Mallet </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-tack-hammer">
+    <title> Tack Hammer </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-sledge-hammer">
+    <title> Sledge Hammer </title>
+
+    <figure>
+      <caption> TBD</caption>
+      <image source="temp-image.jpg" width="30%">
+        <description> TBD </description>
+      </image>
+    </figure>
+
+    <p>
+      TBD
+    </p>
+  </subsubsection>
 </subsection>
