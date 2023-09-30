@@ -3,6 +3,149 @@
 <section xml:id="sec-new-show-guide" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>New Show Guide</title>
 
-  <p> TBD </p>
+  <introduction>
+    <p>
+      Before diving into the dirt and mud, I think it's a good idea to have a rough outline of how the 
+      begining of a show goes. After read the checklist, you can look through a more depth explination 
+      of each step. 
+    </p>
+  </introduction>
 
+  <subsection xml:id="subsec-new-show-starting-list"> <!---->
+    <title> New Show Starting List </title>
+    <introduction>
+      <ul>
+        <li><xref ref="subsubsec-show-list-step-1" text="custom"><em>Step 1: </em></xref>
+          There is a simple interview for new and returning techs that must be completed</li>
+        <li><xref ref="subsubsec-show-list-step-2" text="custom"><em>Step 2: </em></xref>
+          Figure out your expected availability and a few good ways for you to stay in contact. Then submit a form with that infomation</li>
+        <li><xref ref="subsubsec-show-list-step-3" text="custom"><em>Step 3: </em></xref>
+          Get shown the all the places you might be doing work. </li>
+        <li><xref ref="subsubsec-show-list-step-4" text="custom"><em>Step 4: </em></xref>
+          Do a read through of show with all tech members making notes of what will have to be built and what can be repurposed</li>
+        <li><xref ref="subsubsec-show-list-step-5" text="custom"><em>Step 5: </em></xref>
+          As a group create a priority of what needs to be designed and built. Also make a list of nice to haves.</li>
+        <li><xref ref="subsubsec-show-list-step-6" text="custom"><em>Step 6: </em></xref>
+          Make a list of who is going to be primarily in charge of what projects and pieces</li>
+        <li><xref ref="subsubsec-show-list-step-7" text="custom"><em>Step 7: </em></xref>
+          Decide who the new techs will "apprenticing" under, and how they will be rotated</li>
+        <li><xref ref="subsubsec-show-list-step-8" text="custom"><em>Step 8: </em></xref>
+          Create an order based on project priority of what projects should be comepleted in what order</li>
+        <li><xref ref="subsubsec-show-list-step-9" text="custom"><em>Step 9: </em></xref>
+          Decide what are the dates must be met in order to be done with all set construction with at least 3 weeks before show date</li>
+      </ul>
+    </introduction>
+
+    <subsubsection xml:id="subsubsec-show-list-step-1">
+      <title> Step 1 </title>
+      <p>
+        The invterview is really simple. You will be asked 3 main types of questions. The first being
+        about what you why you are interested in tech. The second being what kinds of tools you have
+        at least some experience using and what they were used for. The final is generally a question
+        about relivant experiences you may have, giving you a chance to talk mostly about whatever you
+        think might be relivant that you haven't said yet. For example, maybe you have done tech before
+        with another group, or have relatives that talked you into joining. Anyway, this invertivew is 
+        mostly a formality unless anything unusual comes up.
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsubsec-show-list-step-2">
+      <title> Step 2 </title>
+      <p>
+        If anything comes up like sever weather, or an unexpected event like someone dropping the fire
+        curtain, there needs to be a way to inform you that no one is doing work today. Also, there may
+        be a need for extra build days if a project runs behind schedule and informing peopleabout these
+        days is important. The form mentioned is also your contract to work on a given show. It is kept 
+        kept for record as proof that you have agreeded to working under tech. It has a set of rules you
+        are expected to follow on theme and about potential consiquensis if rules are disreguarded.
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsubsec-show-list-step-3">
+      <title> Step 3 </title>
+      <p>
+        Every shop and theatre is unique in some way or another. Whether the location of the shop, the
+        costum shop location, what kind of catwalks and grids there are, or the standard spot light 
+        locations, you should know at least generally where it all is. During these walkthroughs you 
+        should pay attention about saftey requiments that you have to follow in different areas. You
+        will get training on the machines and tools you will use, but some areas have different saftey
+        requiments than others. For example, you must allways wear saftey glasses in the shop. These 
+        safety requirements are paramount above all else.
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsubsec-show-list-step-4">
+      <title> Step 4 </title>
+      <p>
+        If everything is being done well, the head tech should already have a list from having talked 
+        with the director and having done listen throughs of actors rehersing. However, they are just
+        a single person that might not be experience in making everything that might be needed or 
+        wanted. So this list being created during this read through is to come up with things that
+        are artually possible and might have been missed so far. Even if you are new to tech, feedback
+        during this phase is useful because it helps contextualize what you know, and listening in will
+        help you understand what is important to think about with these decisions.
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsubsec-show-list-step-5">
+      <title> Step 5 </title>
+      <p>
+        Some show elements are more improtant to finish first then others, and as such making a list to 
+        figure out the completion order helps keep a show on track. For example, say there is a large 
+        stage wagon with doors on it that actors need to use. This is more important to finish then 
+        getting a soda bottle or fake flowers to act as stage decorations. By comparing different pieces
+        you can get a priotorty lift fot the essential show pieces. However, there is a set of stuff
+        I call the nice to haves. These are extra stage pieces or props that aren't actually needed, but
+        if used can make the show better. For example, having a few extra beat up stoops if running a 
+        show like Little Shop of Horrors can make skid row feel more like skid row(if that makes sense).
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsubsec-show-list-step-6">
+      <title> Step 6 </title>
+      <p>
+        Now that there is a list of what needs to get done, figuring out who is in charge of what 
+        project is the next step. Some people are better and more skilled at some types of theatre tech
+        stuff then others. Deciding who is the lead tech for each project is based on a combination of
+        the their skill and making sure that they aren't being overworked. For example, personally I 
+        am better prop work and set builds then scenary builds. Therefore I while helping run Spamalot,
+        I tended to be run projects like the french castle and a few of the swords as needed.
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsubsec-show-list-step-7">
+      <title> Step 7 </title>
+      <p>
+        Now that every project should have a lead tech, it is time to distribute the other techs to 
+        various projects. However, any new techs are unlikely to have much experiecne or know exsactly 
+        what they would like to do. To help with this, each of the new techs should enter a rotation of
+        apprentecing under all the standard types of projects for the first half of the shows production
+        period. Then about half way through they should be perminatly assigned to the kinds of projects
+        they like if possible to learn more of the needed skills.
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsubsec-show-list-step-8">
+      <title> Step 8 </title>
+      <p>
+        After going through everything up to this point, there should already be a informal order to
+        what projects should be completed in what order and what projects can be run in parralel. 
+        However, formalizing this into a list helps with the next step, and helps with being able to
+        see if maybe someone had been assigned to too many prjects for them to handle.
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="subsubsec-show-list-step-9">
+      <title> Step 9 </title>
+      <p>
+        These dates are improtant. If a project is falling behind and won't be making the 
+        expected dates, then the head tech can try to get more hours to work on a project. 
+        Also, the head tech by moving people from a team that is ahead of schedule to one
+        that is falling behind to help midigate the time slips. However, if there isn't a
+        set of dates, then the project can slip enough that it might not be done till show 
+        night. I'm speaking here from experince where a stage piece needed to have the safety
+        hand rail replaced about a week before opening night. 
+      </p>
+    </subsubsection>
+  </subsection>
 </section>
