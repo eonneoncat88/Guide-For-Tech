@@ -8,6 +8,7 @@
   </introduction>
 
   <!-- include sections -->
+  <xi:include href="sec-cleaning-is-important.ptx" />
   <xi:include href="sec-daily-checklist.ptx" />
   <xi:include href="sec-cleaning-days.ptx" />
 

@@ -3,6 +3,52 @@
 <section xml:id="sec-daily-checklist" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Dailey Checklist</title>
 
-  <p> TBD </p>
+  <introduction>
+    <p>
+      Every day that you come and leave tech there is a bunch of stuff you should do inorder to help 
+      make everything neater, because a neat and tidy place is a safe place. When you are leaving for 
+      the day if you can help finish these simple tasks it will mean you will do less cleaning days 
+      and make it easier for everyone trying to find something. These tasks are what I like to call 
+      wrap up procedures. Everyone should finish wrapping up what they are working on about 10-20 
+      minutes before leaving in order to help out with them. Here is not all inclusive list of 
+      everything that should be done:
+    </p>
+  </introduction>
 
+  <subsection xml:id="subsec-daily-cleaning-checklist">
+    <title> Dailey Cleaning Checklist </title>
+
+    <introduction>
+      <ul>
+        <li>Put away the radios</li>
+        <li>Put away tools</li>
+        <li>Put away safety glasses and respirators</li>
+        <li>Put away box cutters, utility blades and chisels</li>
+        <li>If using paint make sure to wash all brushes and rollers and then hang them to dry</li>
+        <li>If using paint make sure to reseal all paint canisters</li>
+        <li>If using any aerosol make sure to put it back in the cabinet and relock it</li>
+        <li>Put away the screw bucket</li>
+        <li>Put away loose screws, nails, washers, nuts, bolts, ect. back in the tech shop into the correct conatiner, or at least some kind of container</li>
+        <li>Do a trash run</li>
+        <li>If using mics and speakers, put them away in there respective places and their associated cords</li>
+        <li>Make sure no idiot put stuff covering the vents</li>
+        <li>Shutdown the Vortex with the user interface don't just quit the program</li>
+        <li>Power off the sound board with the menu not with the fuse button</li>
+        <li>Turn off all the lights in the mesz, the sky and the rack</li>
+        <li>If using the spots, turn off their power supply when done</li>
+        <li>Turn off the light board then turn on the safely lights with the buttons near the doors</li>
+        <li>Double check all the windows are all closed and locked</li>
+        <li>Turn off all shop lights</li>
+        <li>Make sure all on stage doors and locks, have in fact been relocked</li>
+      </ul>
+    </introduction>
+  </subsection>
+
+  <conclusion>
+    <p>
+      If this isn't done, you may face disipliary action from the head tech or show director. Additionally,
+      if the space is becomes messy for one reason or another there will be cleaning days. No one wants
+      cleaning days, so don't be the person that makes a cleaning day come
+    </p>
+  </conclusion>
 </section>

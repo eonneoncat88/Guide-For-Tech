@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-cleaning-is-important" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Cleaning is Important</title>
+
+  <introduction>
+    <p>
+      Cleaning is the arguable most important part of staying safe during a production. Although, 
+      at the end of the day you almost always want to leave as soon as possible, taking the time 
+      to clean up and put things away is the best thing to do. I have 3 official reasons, but 
+      honestly it doesn't take much time and the shop won't have to look like the mess in the 
+      images here.
+    </p>
+    <sidebyside widths="33% 34% 33%" margins="auto" valign="middle">
+      <figure xml:id="fig-messy-shop-1">
+        <caption> A messy theatre shop after the building facilities team dumped stuff everywhere </caption>
+        <image source="MessyShop1.jpg">
+          <description> A messy theatre shop after the building facilities team dumped stuff everywhere </description>
+        </image>
+      </figure>
+      <figure xml:id="fig-messy-shop-2">
+        <caption> Another angle of the photo from <xref ref="fig-messy-shop-1"/></caption>
+        <image source="MessyShop2.jpg">
+          <description> A messy theatre shop after the building facilities team dumped stuff everywhere </description>
+        </image>
+      </figure>
+      <figure xml:id="fig-messy-stage-1">
+        <caption> Messy stage photo from catwalkes because people weren't cleaning up </caption>
+        <image source="MessyStage1.jpg">
+          <description> Messy stage photo from catwalkes because people weren't cleaning up </description>
+        </image>
+      </figure>
+    </sidebyside>
+  </introduction>
+
+  <subsection xml:id="subsec-cleaning-reason-1">
+    <title> Cleaning Reason 1 </title>
+
+    <introduction>
+      <p>
+        When you put things away were they belong, it makes it easier to find them later. It's 
+        just that simple. 
+      </p>
+    </introduction>
+  </subsection>
+
+  <subsection xml:id="subsec-cleaning-reason-2">
+    <title> Cleaning Reason 2 </title>
+
+    <introduction>
+      <p>
+        Leaving things out and about everywhere becomes a safety hazard. If not put away the cords 
+        of power tools become tripping devices, and anything with a blade could cut and injure 
+        someone. Or a piece of 2x4 could fall over htting someone in the head. Also, if things
+        aren't put away, power tool batteries have a habit of dissapearing.
+      </p>
+    </introduction>
+  </subsection>
+
+  <subsection xml:id="subsec-cleaning-reason-3">
+    <title> Cleaning Reason 3 </title>
+
+    <introduction>
+      <p>
+        If you don't put things away it is well within the scope of disimplary action of tech head 
+        to tell people not doing work, goofing off, or just for not helping regularly clean, to continue 
+        cleaning the shop until it is clean, become a tempurary cleaner for other people, or just be 
+        removed from tech.
+      </p>
+    </introduction>
+  </subsection>
+
+  <conclusion>
+    <title> Thoughts on Cleaning </title>
+    
+    
+    <p>
+      Another way to think about it is just that being smart and cleaning is good for both you
+      and everyone else. Now how to help 
+      <xref ref="sec-daily-checklist" text="custom">keep things clean on the dailey</xref>
+      or 
+      <xref ref="sec-cleaning-days" text="custom">how to clean up after someone messes</xref>  
+      will be talked about in the next 2 sections
+    </p>
+  </conclusion>
+</section>
