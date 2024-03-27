@@ -7,54 +7,6 @@
 
   <figure xml:id="fig-theatre-org-structure">
     <caption>A theatre organizational structure</caption>
-    <image xml:id="tikz-theatre-org-struct" width="90%">
-      <shortdescription>A theatre organizational shortdescription</shortdescription>
-      <latex-image>
-        \begin{tikzpicture}
-        \begin{circuitikz}
-        \draw [fill={rgb,255:red,204; green,204; blue,204}] (4.5,12.5) rectangle (6.25,12) node[pos=.5] {Director};
-        \draw [fill={rgb,255:red,230; green,184; blue,175}] (2,11.25) rectangle (5,10.75) node[pos=.5] {Not Actor Stuff};
-        \draw [fill={rgb,255:red,207; green,226; blue,243}] (6,11.25) rectangle (8.5,10.75) node[pos=.5] {Actor Stuff};
-        \draw [fill={rgb,255:red,217; green,234; blue,211}] (2.75,9.75) rectangle (4.25,9.25) node[pos=.5] {Tech};
-        \draw [fill={rgb,255:red,164; green,194; blue,244}] (6.25,9.75) rectangle (8.25,9.25) node[pos=.5] {Makeup};
-        \draw [fill={rgb,255:red,180; green,167; blue,214}] (6,8.25) rectangle (8.5,7.75) node[pos=.5] {Choreography};
-        \draw [fill={rgb,255:red,255; green,229; blue,153}] (-1.5,6.75) rectangle (1.5,6.25) node[pos=.5] {Light and Sound};
-        \draw [fill={rgb,255:red,217; green,234; blue,211}] (2.5,8.25) rectangle (4.5,7.75) node[pos=.5] {Head Tech};
-        \draw [fill={rgb,255:red,182; green,215; blue,168}] (2.5,6.75) rectangle (4.5,6.25) node[pos=.5] {Lead Tech};
-        \draw [fill={rgb,255:red,147; green,196; blue,125}] (2.5,5.75) rectangle (4.5,5.25) node[pos=.5] {Designers};
-        \draw [fill={rgb,255:red,106; green,168; blue,79}] (2.5,4.75) rectangle (4.5,4.25) node[pos=.5] {Build Crew};
-        \draw [fill={rgb,255:red,234; green,209; blue,220}] (6.25,6.75) rectangle (8.25,6.25) node[pos=.5] {Costume};
-        \draw [fill={rgb,255:red,213; green,166; blue,189}] (5.5,5.75) rectangle (9,5.25) node[pos=.5] {Costume Designers};
-        \draw [fill={rgb,255:red,194; green,123; blue,160}] (5.75,4.75) rectangle (8.5,4.25) node[pos=.5] {Wardrobe Crew};
-        \draw [-Stealth] (7.25,12.25) -- (7.25,11.25);
-        \draw [-Stealth] (3.5,12.25) -- (3.5,11.25);
-        \draw [-Stealth] (3.5,10.75) -- (3.5,9.75);
-        \draw [-Stealth] (3.5,9.25) -- (3.5,8.25);
-        \draw [-Stealth] (3.5,7.75) -- (3.5,6.75);
-        \draw [-Stealth] (0,7.25) -- (0,6.75);
-        \draw [-Stealth] (7.25,7.25) -- (7.25,6.75);
-        \draw [-Stealth] (3.5,6.25) -- (3.5,5.75);
-        \draw [-Stealth] (3.5,5.25) -- (3.5,4.75);
-        \draw [-Stealth] (7.25,5.25) -- (7.25,4.75);
-        \draw [-Stealth] (7.25,6.25) -- (7.25,5.75);
-        \draw [-Stealth] (9.5,11) -- (8.5,11);
-        \draw [-Stealth] (7.75,10.75) -- (7.75,9.75);
-        \draw [-Stealth] (6.75,10.25) -- (6.75,9.75);
-        \draw [-Stealth] (7.25,8.75) -- (7.25,8.25);
-        \draw [short] (3.5,12.25) .. controls (4,12.25) and (4,12.25) .. (4.5,12.25);
-        \draw [short] (7.25,12.25) .. controls (6.75,12.25) and (6.75,12.25) .. (6.25,12.25);
-        \draw [short] (9.5,11) .. controls (9.5,7.5) and (9.5,7.5) .. (9.5,3.75);
-        \draw [short] (7.25,4.25) .. controls (7.25,4) and (7.25,4) .. (7.25,3.75);
-        \draw [short] (0,6.25) .. controls (0,5) and (0,5) .. (0,3.75);
-        \draw [short] (0,7.25) .. controls (3.75,7.25) and (3.75,7.25) .. (7.25,7.25);
-        \draw [short] (3.5,4.25) .. controls (3.5,4) and (3.5,4) .. (3.5,3.75);
-        \draw [short] (0,3.75) .. controls (4.75,3.75) and (4.75,3.75) .. (9.5,3.75);
-        \draw [short] (8.5,8) .. controls (9,8) and (9,8) .. (9.5,8);
-        \draw [short] (3.5,8.75) .. controls (5.5,8.75) and (5.5,8.75) .. (7.25,8.75);
-        \draw [short] (3.5,10.25) .. controls (5.25,10.25) and (5.25,10.25) .. (6.75,10.25);
-        \end{circuitikz}
-        \end{tikzpicture}
-      </latex-image>
-    </image>
+    <image source="tikz-theatre-org-struct.ptx"></image>
   </figure>
 </section>

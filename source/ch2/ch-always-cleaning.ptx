@@ -6,8 +6,8 @@
   <introduction>
     <p> 
       Ah, cleaning, the thing that almost no one wants to do, but we all must do. If cleaning is done 
-      regularly there isn't a problem. However, there is a valid question to be asked: What should
-      we clean on a regular basis?
+      regularly there isn't a problem. However, there is some questions to be asked such as: What should
+      we clean on a regular basis, or how do we clean something.
     </p>
   </introduction>
 
@@ -15,5 +15,6 @@
   <xi:include href="sec-cleaning-is-important.ptx" />
   <xi:include href="sec-daily-checklist.ptx" />
   <xi:include href="sec-cleaning-days.ptx" />
+  <xi:include href="sec-how-to-clean.ptx" />
 
 </chapter>

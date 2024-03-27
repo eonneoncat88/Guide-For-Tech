@@ -13,13 +13,12 @@
 
     <!-- Include chapters -->
     <xi:include href="./ch1/ch-general-advice.ptx" />
-    <xi:include href="./ch2/ch-starting-a-show.ptx" />
-    <xi:include href="./ch3/ch-always-cleaning.ptx" />
-    <xi:include href="./ch4/ch-your-assignments.ptx" />
-    <xi:include href="./ch5/ch-the-materials.ptx" />
-    <xi:include href="./ch6/ch-know-your-tools.ptx" />
-    <xi:include href="./ch7/ch-how-to-do-stuff.ptx" />
-    <xi:include href="./ch8/ch-miscellaneous-stuff.ptx" />
+    <xi:include href="./ch2/ch-always-cleaning.ptx" />
+    <xi:include href="./ch3/ch-your-assignments.ptx" />
+    <xi:include href="./ch4/ch-the-materials.ptx" />
+    <xi:include href="./ch5/ch-know-your-tools.ptx" />
+    <xi:include href="./ch6/ch-how-to-do-stuff.ptx" />
+    <xi:include href="./ch7/ch-miscellaneous-stuff.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
