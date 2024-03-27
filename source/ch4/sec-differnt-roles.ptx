@@ -8,7 +8,7 @@
   <figure xml:id="fig-theatre-org-structure">
     <caption>A theatre organizational structure</caption>
     <image xml:id="tikz-theatre-org-struct" width="90%">
-      <description>A theatre organizational structure</description>
+      <shortdescription>A theatre organizational shortdescription</shortdescription>
       <latex-image>
         \begin{tikzpicture}
         \begin{circuitikz}

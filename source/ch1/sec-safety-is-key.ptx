@@ -4,11 +4,13 @@
   <title>Safety Is Key</title>
 
   <introduction>  
-    Something that we like to say in tech is that safety is key. This is for a variety of 
-    reasons including the fact that being in tech exsposes you to higher risk factors from
-    the tools to paint fumes to rigging you have to use. Although following all safety 
-    procautions may seem irritating, it is esscential that everyone follows these guidelines
-    in order to avoid possible short term and long term dentrimates to your health. 
+    <p>
+      Something that we like to say in tech is that safety is key. This is for a variety of 
+      reasons including the fact that being in tech exsposes you to higher risk factors from
+      the tools to paint fumes to rigging you have to use. Although following all safety 
+      procautions may seem irritating, it is esscential that everyone follows these guidelines
+      in order to avoid possible short term and long term dentrimates to your health. 
+    </p>
   </introduction>
 
   <subsection xml:id="subsec-best-practices">

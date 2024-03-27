@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<p xml:id="preface" xmlns:xi="http://www.w3.org/2001/XInclude">
+<preface xml:id="preface" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Book's Goals</title>
+  
   <p>
     So. . . to the fools in tech or just interested, I give you my piece de resistance. 
     This book was writen with the intent to teach you on how to m̶a̶y̶b̶e̶  survive your time 
@@ -31,4 +33,4 @@
       or Centers for Disease Control and Prevention.
     </em>
   </p>
-</p>
+</preface>

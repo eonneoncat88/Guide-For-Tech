@@ -15,16 +15,16 @@
     <figure> <!--xml:id="fig-"-->
       <caption> TBD</caption>
       <image source="temp-image.jpg" width="30%">
-        <description> TBD </description>
+        <shortdescription> TBD </shortdescription>
       </image>
     </figure>
 
     <p>
-      TBD
+      TBDshortdescription
     </p>
   </subsection>
 
   <!-- include sections -->
-  <xi:include href="subsubsec-why-not-always-use-spray-paint.ptx" />
+  <xi:include href="subsec-why-not-always-use-spray-paint.ptx" />
 
 </section>

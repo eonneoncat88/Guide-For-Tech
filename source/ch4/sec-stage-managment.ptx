@@ -8,7 +8,7 @@
   <figure xml:id="fig-on-stage-org-struct">
     <caption>An on stage organizational structure</caption>
     <image xml:id="tikz-on-stage-org-struct" width="90%">
-      <description>An on stage organizational structure</description>
+      <shortdescription>An on stage organizational structure</shortdescription>
       <latex-image>
         \begin{tikzpicture}
         \begin{circuitikz}

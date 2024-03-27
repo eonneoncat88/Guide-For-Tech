@@ -15,11 +15,34 @@
     </date>
   </titlepage>
 
+  <colophon>
+
+    <edition>
+      2023 Update
+    </edition>
+
+    <copyright>
+      <year>2023</year>
+      <holder>Noah Leahy</holder>
+      <minilicense>Creative Commons BY-SA</minilicense>
+      <shortlicense> 
+        This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 
+        To view a copy of this license, visit 
+          <url 
+            href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.en" visual="creativecommons.org">
+            Creative Commons BY-SA
+          </url>
+      </shortlicense>
+    </copyright>
+  </colophon>
+
   <dedication>
     <p> 
       To all techs and their sacrifice to be part of their shows
     </p>
+  </dedication>
 
+  <acknowledgement>
     <p> 
       Special Thanks To:
       <ul marker="disc">
@@ -34,38 +57,8 @@
         <li><p>Henry</p></li>
       </ul>
     </p>
-  </dedication>
+  </acknowledgement>
 
-  <colophon>
-
-    <edition>
-      2023 Update
-    </edition>
-
-    <copyright>
-      <year>2023</year>
-      <holder>Noah Leahy</holder>
-      <shortlicense> 
-        This work is licensed under the Creative Commons Attribution 4.0 International License. 
-        To view a copy of this license, visit 
-        <website>
-          <url 
-            href="http://creativecommons.org/licenses/by/4.0/legalcode" 
-            visual="creativecommons.org">
-            Creative Commons Attribution 4.0 International License Legal Code
-          </url>
-        </website>
-        <image source="CreativeCommonsAttribution40InternationalLicense.svg" width="30%">
-          <description>Creative Commons Attribution 4.0 International License</description>
-        </image>>
-      </shortlicense>
-    </copyright>
-  </colophon>
-
-  <preface>
-    <title>Book's Goals</title>
-
-    <xi:include href="./preface.ptx" />
-  </preface>
+  <xi:include href="./preface.ptx" />
 </frontmatter>
 

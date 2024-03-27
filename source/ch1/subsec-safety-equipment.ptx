@@ -20,7 +20,7 @@
     <figure> <!--xml:id="fig-"-->
       <caption> TBD </caption>
       <image source="temp-image.jpg" width="30%">
-        <description> TBD </description>
+        <shortdescription> TBD </shortdescription>
       </image>
     </figure>
 
@@ -42,7 +42,7 @@
     <figure> <!--xml:id="fig-"-->
       <caption> TBD </caption>
       <image source="temp-image.jpg" width="30%">
-        <description> TBD </description>
+        <shortdescription> TBD </shortdescription>
       </image>
     </figure>
 
@@ -109,7 +109,7 @@
     <figure> <!--xml:id="fig-"-->
       <caption> Respetory Protection Types </caption>
       <image source="temp-image.jpg" width="30%">
-        <description> Respetory Protection Types </description>
+        <shortdescription> Respetory Protection Types </shortdescription>
       </image>
     </figure>
 
@@ -124,14 +124,12 @@
       ventialated spaces, working in dust filled enviorments, cutting materials, or working with foam.
     </p>
     <p>
-      <website>
         For more information on reperators go to The National Personal Protective Technology Laboratory 
         (NPPTL) site for 
-        <url href="https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/respsourceTypes.html">
+        <url href="https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/respsourceTypes.html" visual="cdc.gov">
           The Respiratory Protection Information Trusted Source
         </url>.
         The material is available on the agency website for no charge.
-      </website>
     </p>
   </subsubsection>
   
@@ -141,7 +139,7 @@
     <figure> <!--xml:id="fig-"-->
       <caption> TBD </caption>
       <image source="temp-image.jpg" width="30%">
-        <description> TBD </description>
+        <shortdescription> TBD </shortdescription>
       </image>
     </figure>
 
@@ -161,7 +159,7 @@
     <figure> <!--xml:id="fig-"-->
       <caption> TBD </caption>
       <image source="temp-image.jpg" width="30%">
-        <description> TBD </description>
+        <shortdescription> TBD </shortdescription>
       </image>
     </figure>
 
@@ -180,7 +178,7 @@
     <figure> <!--xml:id="fig-"-->
       <caption> TBD </caption>
       <image source="temp-image.jpg" width="30%">
-        <description> TBD </description>
+        <shortdescription> TBD </shortdescription>
       </image>
     </figure>
 
@@ -200,7 +198,7 @@
     <figure> <!--xml:id="fig-"-->
       <caption> TBD </caption>
       <image source="temp-image.jpg" width="30%">
-        <description> TBD </description>
+        <shortdescription> TBD </shortdescription>
       </image>
     </figure>
 

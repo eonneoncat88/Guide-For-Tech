@@ -15,7 +15,7 @@
     <figure> <!--xml:id="fig-"-->
       <caption> TBD</caption>
       <image source="temp-image.jpg" width="30%">
-        <description> TBD </description>
+        <shortdescription> TBD </shortdescription>
       </image>
     </figure>
 

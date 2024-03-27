@@ -14,26 +14,28 @@
   <subsection xml:id="subsec-new-show-starting-list"> <!---->
     <title> New Show Starting List </title>
     <introduction>
-      <ul>
-        <li><xref ref="subsubsec-show-list-step-1" text="custom"><em>Step 1: </em></xref>
-          There is a simple interview for new and returning techs that must be completed</li>
-        <li><xref ref="subsubsec-show-list-step-2" text="custom"><em>Step 2: </em></xref>
-          Figure out your expected availability and a few good ways for you to stay in contact. Then submit a form with that infomation</li>
-        <li><xref ref="subsubsec-show-list-step-3" text="custom"><em>Step 3: </em></xref>
-          Get shown the all the places you might be doing work. </li>
-        <li><xref ref="subsubsec-show-list-step-4" text="custom"><em>Step 4: </em></xref>
-          Do a read through of show with all tech members making notes of what will have to be built and what can be repurposed</li>
-        <li><xref ref="subsubsec-show-list-step-5" text="custom"><em>Step 5: </em></xref>
-          As a group create a priority of what needs to be designed and built. Also make a list of nice to haves.</li>
-        <li><xref ref="subsubsec-show-list-step-6" text="custom"><em>Step 6: </em></xref>
-          Make a list of who is going to be primarily in charge of what projects and pieces</li>
-        <li><xref ref="subsubsec-show-list-step-7" text="custom"><em>Step 7: </em></xref>
-          Decide who the new techs will "apprenticing" under, and how they will be rotated</li>
-        <li><xref ref="subsubsec-show-list-step-8" text="custom"><em>Step 8: </em></xref>
-          Create an order based on project priority of what projects should be comepleted in what order</li>
-        <li><xref ref="subsubsec-show-list-step-9" text="custom"><em>Step 9: </em></xref>
-          Decide what are the dates must be met in order to be done with all set construction with at least 3 weeks before show date</li>
-      </ul>
+      <p>
+        <ul>
+          <li><xref ref="subsubsec-show-list-step-1" text="custom"><em>Step 1: </em></xref>
+            There is a simple interview for new and returning techs that must be completed</li>
+          <li><xref ref="subsubsec-show-list-step-2" text="custom"><em>Step 2: </em></xref>
+            Figure out your expected availability and a few good ways for you to stay in contact. Then submit a form with that infomation</li>
+          <li><xref ref="subsubsec-show-list-step-3" text="custom"><em>Step 3: </em></xref>
+            Get shown the all the places you might be doing work. </li>
+          <li><xref ref="subsubsec-show-list-step-4" text="custom"><em>Step 4: </em></xref>
+            Do a read through of show with all tech members making notes of what will have to be built and what can be repurposed</li>
+          <li><xref ref="subsubsec-show-list-step-5" text="custom"><em>Step 5: </em></xref>
+            As a group create a priority of what needs to be designed and built. Also make a list of nice to haves.</li>
+          <li><xref ref="subsubsec-show-list-step-6" text="custom"><em>Step 6: </em></xref>
+            Make a list of who is going to be primarily in charge of what projects and pieces</li>
+          <li><xref ref="subsubsec-show-list-step-7" text="custom"><em>Step 7: </em></xref>
+            Decide who the new techs will "apprenticing" under, and how they will be rotated</li>
+          <li><xref ref="subsubsec-show-list-step-8" text="custom"><em>Step 8: </em></xref>
+            Create an order based on project priority of what projects should be comepleted in what order</li>
+          <li><xref ref="subsubsec-show-list-step-9" text="custom"><em>Step 9: </em></xref>
+            Decide what are the dates must be met in order to be done with all set construction with at least 3 weeks before show date</li>
+        </ul>
+      </p>
     </introduction>
 
     <subsubsection xml:id="subsubsec-show-list-step-1">
