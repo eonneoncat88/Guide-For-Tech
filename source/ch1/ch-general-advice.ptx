@@ -4,10 +4,19 @@
   <title>General Advice</title>
 
   <introduction>
-    <p> TBD </p>
+    <p> 
+      Before getting into the weeds of tech, there is some important stuff we need to take about 
+      and get out of the way. This includes stuff like taking about general expectations, 
+      <xref ref="sec-safety-is-key">safety</xref>, emergancy procidures, and how starting a new 
+      show goes. This chapter is not all encompacing and is a bit long for what you might think 
+      it is, but please do read through this chapter if nothing else.
+    </p>
   </introduction>
 
   <!-- include sections -->
+  <xi:include href="sec-general-expectations.ptx" />
   <xi:include href="sec-safety-is-key.ptx" />
+  <xi:include href="sec-emergancy-procidures.ptx" />
+  <xi:include href="sec-new-show-guide.ptx" />
 
 </chapter>

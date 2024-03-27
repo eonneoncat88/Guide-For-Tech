@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-emergancy-procidures" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Emergancy Procidures</title>
+
+  <introduction>  
+    <p>
+      TBD
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-personal-harm">
+    <title>Personal Harm</title>
+
+    <introduction>
+      <p>
+        TBD
+      </p>
+    </introduction>
+
+    <subsubsection xml:id="subsec-lacerations">
+      <title>Lacerations</title>
+      <p>
+        TBD
+      </p>
+    </subsubsection>
+  
+    <subsubsection xml:id="subsec-abrations">
+      <title>Abrations</title>
+      <p>
+        TBD
+      </p>
+    </subsubsection>
+  
+    <subsubsection xml:id="subsec-burns">
+      <title>Burns</title>
+      <p>
+        TBD
+      </p>
+    </subsubsection>
+  </subsection>
+
+  <subsection xml:id="subsec-stage-disaster">
+    <title>Stage Disaster</title>
+
+    <introduction>
+      <p>
+        TBD
+      </p>
+    </introduction>
+
+    <subsubsection xml:id="subsec-set-fire">
+      <title>Set Fire</title>
+      <p>
+        TBD
+      </p>
+    </subsubsection>
+  
+    <subsubsection xml:id="subsec-vortex-failure">
+      <title>Abrations</title>
+      <p>
+        TBD
+      </p>
+    </subsubsection>
+  </subsection>
+</section>
